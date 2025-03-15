@@ -1,0 +1,62 @@
+# Sentiment Analysis Dashboard
+
+## 📌 Overview
+This is an interactive **Sentiment Analysis Dashboard** built using **Streamlit**, **NLTK**, and **Matplotlib**. It allows users to analyze customer feedback, visualize sentiment distribution, and explore word clouds.
+
+## 🚀 Features
+- **Sentiment Classification:** Detects Positive, Negative, and Neutral sentiments.
+- **Visualizations:** 
+  - Sentiment Distribution (Bar Plot)
+  - Sentiment Proportion (Pie Chart)
+  - Word Cloud for common words
+- **Interactive Dashboard:** Built using **Streamlit** for a smooth user experience.
+
+## 🛠️ Installation
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/AtharvTrivedi21/Sentiment-Analysis-Dashboard.git
+cd Sentiment-Analysis-Dashboard
+```
+
+### 2️⃣ Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 3️⃣ Run the Dashboard
+```bash
+streamlit run app.py
+```
+
+## 📊 Screenshots
+| Sentiment Distribution | Sentiment Proportion |
+|------------------------|----------------------|
+| ![Distribution](assets/sentiment_distribution.png) | ![Proportion](assets/sentiment_proportion.png) |
+
+## 📂 File Structure
+```
+Sentiment-Analysis-Dashboard/
+│── app.py              # Main Streamlit App
+│── requirements.txt    # Dependencies
+│── assets/             # Images for README
+│── dataset.csv         # Sample data (if needed)
+│── README.md           # Documentation
+```
+
+## 🏗️ Deployment
+You can deploy this project on **Streamlit Cloud**, **Heroku**, or **Render**.
+
+### 📌 Deploy on Streamlit Cloud
+1. Push your project to GitHub.
+2. Go to [Streamlit Community Cloud](https://share.streamlit.io/).
+3. Connect your GitHub repository.
+4. Select `app.py` as the main file.
+5. Click **Deploy**.
+
+## 📜 License
+This project is licensed under the **MIT License**.
+
+## ✨ Authors
+- **Atharv Trivedi**
+- **Sharvil Shah** 
