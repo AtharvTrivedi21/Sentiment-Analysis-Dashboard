@@ -45,5 +45,5 @@ You can find our project live on: [StreamLit Cloud](link)
 This project is licensed under the **MIT License**.
 
 ## ✨ Authors
-- **[Atharv Trivedi](http:\\github.com\AtharvTrivedi21)**
-- **[Sharvil Shah](http:\\github.com\Sharvil-Shah)** 
+- **[Atharv Trivedi](http://github.com/AtharvTrivedi21)**
+- **[Sharvil Shah](http://github.com/Sharvil-Shah)** 
