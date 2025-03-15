@@ -120,5 +120,5 @@ elif analysis_type == 'Batch Analysis':
             st.error('The CSV must contain a "text" column.')
 
 st.sidebar.write('Built with Streamlit, NLTK, TextBlob, and Transformers!')
-st.sidebar.write("Developers:"
+st.sidebar.write("Developers:")
 st.sidebar.write("[Atharv Trivedi](http://github.com/AtharvTrivedi21) | [Sharvil Shah](http://github.com/SharvilShah7)")
