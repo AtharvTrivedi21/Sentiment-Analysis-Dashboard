@@ -29,11 +29,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 📊 Screenshots
-| Sentiment Distribution | Sentiment Proportion |
-|------------------------|----------------------|
-| ![Distribution](assets/sentiment_distribution.png) | ![Proportion](assets/sentiment_proportion.png) |
-
 ## 📂 File Structure
 ```
 Sentiment-Analysis-Dashboard/
