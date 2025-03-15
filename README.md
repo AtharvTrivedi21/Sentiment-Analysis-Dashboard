@@ -46,4 +46,4 @@ This project is licensed under the **MIT License**.
 
 ## ✨ Authors
 - **[Atharv Trivedi](http://github.com/AtharvTrivedi21)**
-- **[Sharvil Shah](http://github.com/Sharvil-Shah)** 
+- **[Sharvil Shah](http://github.com/SharvilShah7)** 
