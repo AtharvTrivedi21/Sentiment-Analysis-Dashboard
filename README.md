@@ -39,18 +39,11 @@ Sentiment-Analysis-Dashboard/
 ```
 
 ## 🏗️ Deployment
-You can deploy this project on **Streamlit Cloud**, **Heroku**, or **Render**.
-
-### 📌 Deploy on Streamlit Cloud
-1. Push your project to GitHub.
-2. Go to [Streamlit Community Cloud](https://share.streamlit.io/).
-3. Connect your GitHub repository.
-4. Select `app.py` as the main file.
-5. Click **Deploy**.
+You can find our project live on: [StreamLit Cloud](link)
 
 ## 📜 License
 This project is licensed under the **MIT License**.
 
 ## ✨ Authors
-- **Atharv Trivedi**
-- **Sharvil Shah** 
+- **[Atharv Trivedi](http:\\github.com\AtharvTrivedi21)**
+- **[Sharvil Shah](http:\\github.com\Sharvil-Shah)** 
