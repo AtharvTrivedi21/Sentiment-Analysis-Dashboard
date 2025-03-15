@@ -39,7 +39,7 @@ Sentiment-Analysis-Dashboard/
 ```
 
 ## 🏗️ Deployment
-You can find our project live on: [StreamLit Cloud](link)
+You can find our project live on: [StreamLit Cloud](https://sentiment-analysis-dashboard-atss.streamlit.app/)
 
 ## 📜 License
 This project is licensed under the **MIT License**.
