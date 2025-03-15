@@ -34,7 +34,6 @@ streamlit run app.py
 Sentiment-Analysis-Dashboard/
 │── app.py              # Main Streamlit App
 │── requirements.txt    # Dependencies
-│── assets/             # Images for README
 │── dataset.csv         # Sample data (if needed)
 │── README.md           # Documentation
 ```
